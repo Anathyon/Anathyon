@@ -55,7 +55,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anathyonerysson/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:anathyon@protonmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](([https://api.whatsapp.com/send/?phone=5588994147362&text&type=phone_number&app_absent=0](https://api.whatsapp.com/send/?phone=5588994147362&text&type=phone_number&app_absent=0")))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://api.whatsapp.com/send/?phone=5588994147362&text&type=phone_number&app_absent=0"))
 
 
 ---
