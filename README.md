@@ -45,7 +45,7 @@
 ### 📂 Repositórios em destaque
 
 - 🔢 [Calculadora moderna](https://github.com/Anathyon/Calculadora)
-- 🔐 [Gerador de senhas](https://github.com/Anathyon/Gerador-de-senha)
+- 📷 [Webcam com TypeScript]((https://github.com/Anathyon/Webcam))
 - 🌦️ [Informações meteorológicas com TypeScript](https://github.com/Anathyon/Informacoes-meteriologigas)
 - 📊 [Calculadora IMC com Next + TypeScript + Taillwind](https://github.com/Anathyon/calculadora_imc)
   
