@@ -48,7 +48,8 @@
 - 📷 [Webcam com TypeScript](https://github.com/Anathyon/Webcam)
 - 🌦️ [Informações meteorológicas com TypeScript](https://github.com/Anathyon/Informacoes-meteriologigas)
 - 📊 [Calculadora IMC com Next + TypeScript + Taillwind](https://github.com/Anathyon/calculadora_imc)
-  
+- 🔐 [Gerador de senhas + TypeScript + PWA ](https://github.com/Anathyon/Gerador-de-senha)
+
 ---
 
 ### 📞 Fale comigo
