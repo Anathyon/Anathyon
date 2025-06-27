@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Frontend;Amo+JavaScript+e+TypeScript;Apaixonado+por+UI%2FUX+Responsivo;Criando+com+React%2C+Next.js+e+Tailwind!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Frontend;Amo+JavaScript+e+TypeScript;Apaixonado+por+UI%2FUX+Responsivo;Criando+com+React%2C+Next.js%2C+Tailwind+e+PWA!" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,6 +15,7 @@
 
 - 🧠 Estudando **Node.js**, **React**, acessibilidade e design responsivo  
 - 🛠️ Foco em **JavaScript**, **TypeScript**, **HTML** e **CSS**  
+- 📱 Experiência com **PWA (Progressive Web Apps)** para experiências modernas e offline  
 - 🚧 Sempre criando projetos práticos e funcionais  
 - 🎯 Buscando crescer como profissional de frontend  
 - 📬 Contato direto: [anathyon@protonmail.com](mailto:anathyon@protonmail.com)
@@ -42,6 +43,7 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 ---
 
@@ -53,7 +55,7 @@
 | 📷 [Webcam](https://github.com/Anathyon/Webcam) | App de captura de imagem com TypeScript |
 | 🌦️ [Clima em tempo real](https://github.com/Anathyon/Informacoes-meteriologigas) | Aplicação meteorológica com tema dinâmico |
 | 🧮 [IMC - Next.js](https://github.com/Anathyon/calculadora_imc) | Calculadora de IMC usando Next, TypeScript e Tailwind |
-| 🔐 [Gerador de Senhas](https://github.com/Anathyon/Gerador-de-senha) | App PWA com recursos de segurança e personalização |
+| 🔐 [Gerador de Senhas](https://github.com/Anathyon/Gerador-de-senha) | App **PWA** com recursos de segurança, responsividade e personalização |
 
 ---
 
