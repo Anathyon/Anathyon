@@ -1,68 +1,74 @@
-<h1 align="center">👋 Olá, eu sou Anathyon!</h1>
+<h1 align="center">🚀 Anathyon Erysson</h1>
 
 <p align="center">
-  Desenvolvedor Frontend apaixonado por tecnologia, aprendizado contínuo e criação de experiências web modernas.
+  <b>Desenvolvedor Frontend</b><br>
+  Apaixonado por tecnologia, criatividade e desenvolvimento web moderno. Buscando transformar ideias em interfaces funcionais e responsivas.
 </p>
 
----
-
-### 🚀 Sobre mim
-
-- 💻 Atualmente focado em **JavaScript, TypeScript, HTML e CSS**
-- 🌱 Aprendendo mais sobre **Node.js, React, acessibilidade e responsividade**
-- 🎯 Criando soluções criativas e funcionais para web
-- 🔍 Em busca de novos desafios para evoluir como desenvolvedor
-- 💼 Aberto a oportunidades como **Desenvolvedor Frontend**
-- 📫 Contato direto: [anathyon@protonmail.com](mailto:anathyon@protonmail.com)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Frontend;Amo+JavaScript+e+TypeScript;Apaixonado+por+UI%2FUX+Responsivo;Criando+com+React%2C+Next.js+e+Tailwind!" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 📌 Sobre Mim
 
-#### 📌 Linguagens
+- 🧠 Estudando **Node.js**, **React**, acessibilidade e design responsivo  
+- 🛠️ Foco em **JavaScript**, **TypeScript**, **HTML** e **CSS**  
+- 🚧 Sempre criando projetos práticos e funcionais  
+- 🎯 Buscando crescer como profissional de frontend  
+- 📬 Contato direto: [anathyon@protonmail.com](mailto:anathyon@protonmail.com)
+
+---
+
+### 🧰 Tech Stack
+
+#### 📚 Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### ⚙️ Frameworks & Libs
+#### ⚛️ Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ☁️ Plataforma e Backend
+#### ☁️ Plataformas e Ferramentas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📊 Estatísticas GitHub
+### 💡 Repositórios em Destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| 🔢 [Calculadora](https://github.com/Anathyon/Calculadora) | Calculadora moderna com histórico e funcionalidades extras |
+| 📷 [Webcam](https://github.com/Anathyon/Webcam) | App de captura de imagem com TypeScript |
+| 🌦️ [Clima em tempo real](https://github.com/Anathyon/Informacoes-meteriologigas) | Aplicação meteorológica com tema dinâmico |
+| 🧮 [IMC - Next.js](https://github.com/Anathyon/calculadora_imc) | Calculadora de IMC usando Next, TypeScript e Tailwind |
+| 🔐 [Gerador de Senhas](https://github.com/Anathyon/Gerador-de-senha) | App PWA com recursos de segurança e personalização |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anathyon&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anathyon&theme=tokyonight" width="47%" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anathyon&theme=tokyonight" width="94%" />
 </div>
 
 ---
 
-### 📂 Repositórios em destaque
-
-- 🔢 [`Calculadora`](https://github.com/Anathyon/Calculadora) — Calculadora moderna com histórico de cálculos
-- 📷 [`Webcam`](https://github.com/Anathyon/Webcam) — Captura de imagens com TypeScript
-- 🌦️ [`Informações Meteorológicas`](https://github.com/Anathyon/Informacoes-meteriologigas) — App com clima em tempo real
-- 📊 [`Calculadora IMC`](https://github.com/Anathyon/calculadora_imc) — App com Next.js + TailwindCSS
-- 🔐 [`Gerador de Senhas`](https://github.com/Anathyon/Gerador-de-senha) — PWA para geração de senhas seguras
-
----
-
-### 📞 Onde me encontrar
+### 📞 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anathyonerysson/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:anathyon@protonmail.com)
@@ -71,5 +77,5 @@
 ---
 
 <p align="center">
-  Obrigado pela visita! ✨  
+  Obrigado por visitar meu perfil! 🚀 Vamos construir algo juntos?
 </p>
