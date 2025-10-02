@@ -53,9 +53,10 @@
 |--------|-----------|
 | 🔢 [Calculadora](https://github.com/Anathyon/Calculadora) | Calculadora moderna com histórico e funcionalidades extras |
 | 📷 [Webcam](https://github.com/Anathyon/Webcam) | App de captura de imagem com TypeScript |
-| 🌦️ [Clima em tempo real](https://github.com/Anathyon/Informacoes-meteriologigas) | Aplicação meteorológica com tema dinâmico |
+| 🌦️ [Clima em tempo real](https://github.com/Anathyon/informa--es-meteorol-gicas) | Aplicação meteorológica com tema dinâmico |
 | 🧮 [IMC - Next.js](https://github.com/Anathyon/calculadora_imc) | Calculadora de IMC usando Next, TypeScript e Tailwind |
 | 🔐 [Gerador de Senhas](https://github.com/Anathyon/Gerador-de-senha) | App **PWA** com recursos de segurança, responsividade e personalização |
+| ✅ [To do List](https://github.com/Anathyon/To-do-list) | App para gerenciamento de tarefas, responsividade com TypeScript e API de notificações e imagens de background |
 
 ---
 
