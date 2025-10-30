@@ -65,7 +65,7 @@ Confira alguns dos meus projetos que demonstram minhas habilidades técnicas:
 | 🌦️ **Clima em Tempo Real** | JavaScript, API REST | Aplicação que consome API de clima com tema dinâmico, demonstrando consumo eficiente de dados. |
 | 🔢 **Calculadora Web** | JavaScript, HTML, CSS | Calculadora com histórico e funcionalidades extras, focada em manipulação de eventos e lógica complexa. |
 | 📷 **Webcam App** | TypeScript, MediaDevices API | Exemplo de aplicação que interage com a **API de captura de mídia** do navegador, utilizando TypeScript. |
-| 📷 **conversor de moedas** | TypeScript, MediaDevices API | Exemplo de aplicação que interage com a **API de captura de mídia** do navegador, utilizando TypeScript. |
+| 🎬 **Recomendações de Cinema** | TypeScript, Next.js, Tailwind CSS, Zustand, TMDB API | Exemplo de aplicação que interage com a **API do TMDB** para buscar filmes e séries, utilizando TypeScript.|
 | 💰 **Conversor de Moedas** | React, Zustand, Tailwind CSS | Exemplo de aplicação que interage com uma API de cotação de moedas em tempo real, utilizando React e gerenciamento de estado com Zustand. |
 
 ---
