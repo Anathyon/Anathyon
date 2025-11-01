@@ -14,7 +14,7 @@
 
 | Área | Detalhes |
 | :--- | :--- |
-| **Tech Stack Principal** | Proficiência em **JavaScript**, **TypeScript**, **React** e **Next.js** para construção de aplicações escaláveis e performáticas. |
+| **Tech Stack Principal** | Proficiência em **JavaScript**, **TypeScript**, **React**, **Vite** e **Next.js** para construção de aplicações escaláveis e performáticas. |
 | **Frontend Moderno** | Especialista em criar layouts **responsivos** com **Tailwind CSS** e **CSS/Sass** puro. Experiência com **Progressive Web Apps (PWA)** para experiências offline e nativas. |
 | **Estudos Atuais** | Aprofundamento em **Node.js** para Full Stack, design de sistemas web e práticas de **acessibilidade (A11y)**. |
 | **Mentalidade** | Busco sempre aprimorar a qualidade do código através de testes unitários e boas práticas de arquitetura. |
